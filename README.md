@@ -1,4 +1,5 @@
 # womble-weewx - creating a docker image for weewx
 
+Firstly massive credit to 
+https://github.com/felddy/weewx-docker for the work putting together the project.
 
-https://github.com/felddy/weewx-docker/pull/345/commits/3694342c3f210137c1e1a9ea30ce85ee86288e1d
